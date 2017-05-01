@@ -1,0 +1,23 @@
+{
+  "name": "gulp-frontend",
+  "version": "1.0.0",
+  "description": "A Gulp build process setup for web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnysmillie/gulp-frontend.git"
+  },
+  "keywords": [
+    "gulp",
+    "frontend"
+  ],
+  "author": "Jonny Smillie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnysmillie/gulp-frontend/issues"
+  },
+  "homepage": "https://github.com/jonnysmillie/gulp-frontend#readme"
+}
